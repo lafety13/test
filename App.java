@@ -15,7 +15,7 @@ public class App
         //System.out.print("e");
 
     }
-
+//ываааааааааааавыаываыва
     public static void sort(int[] array)
     {
         int[] newArr = new int[size];
